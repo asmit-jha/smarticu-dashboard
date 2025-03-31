@@ -183,7 +183,7 @@ const MonitoringDashboardWithBeep = () => {
           fontFamily: "Arial, sans-serif",
         }}
       >
-        Live Monitoring Dashboard
+        Live Monitoring Dashboard with Beep
       </h2>
 
       {/* Audio element for beep sound */}
